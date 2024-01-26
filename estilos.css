@@ -1,0 +1,2 @@
+div.foto {background-image: url(img/aguila1.jpg); width: 400px; height: 200px; background-size: cover;}
+div.foto:hover{background-image: url(img/aguila2.jpg); background-repeat: no-repeat; background-size: cover; width: 400px; height: 300px;}
